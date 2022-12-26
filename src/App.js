@@ -3,9 +3,9 @@
 import './App.css';
 import Header from './components/Header/Header';
 import Body from './components/Body/Body';
-import { Taskinput } from './components/Task-input/Taskinput';
-import Singletask from './components/SingleTask/Singletask';
-import Tasklisting from './components/Tasklisting/Tasklisting';
+//import { Taskinput } from './components/Task-input/Taskinput';
+//import Singletask from './components/SingleTask/Singletask';
+//import Tasklisting from './components/Tasklisting/Tasklisting';
 
 function App() {
   return (
